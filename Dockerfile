@@ -1,4 +1,3 @@
-# Build llama.cpp in a separate stage
 FROM python:3.13-slim AS llama-builder
 
 # Install build dependencies
