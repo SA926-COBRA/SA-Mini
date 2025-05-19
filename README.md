@@ -1,4 +1,3 @@
-# MiniSearch
 
 A minimalist web-searching app with an AI assistant that runs directly from your browser.
 
